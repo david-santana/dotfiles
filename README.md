@@ -1,4 +1,11 @@
-dotfiles
-========
+# My basic dotfiles
 
-My dotfiles in Debian GNU/Linux 7
+I'm not a programmer but i like to learn things.
+This is my very basic dotfiles in Debian/GNU Linux.
+
+## Install
+
+To manage and install i use a usefull python script 'dotfiles'
+
+*Python:* <http://pypi.python.org/pypi/dotfiles>
+*Github:* <https://github.com/jbernard/dotfiles>
