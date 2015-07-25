@@ -15,6 +15,12 @@ HISTCONTROL=ignoreboth
 # append to the history file, don't overwrite it
 shopt -s histappend
 
+#git completions - no bug?
+#. /usr/share/git-core/contrib/completion/git-prompt.sh
+# /home/user git completion - copy git-completion.bash
+# from https://github.com/git/git/blob/master/contrib/completion/git-completion.bash
+source ~/.git-completion.bash
+
 # for setting history length see HISTSIZE and HISTFILESIZE in bash(1)
 HISTSIZE=1000
 HISTFILESIZE=2000
